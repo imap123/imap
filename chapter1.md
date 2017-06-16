@@ -1,3 +1,12 @@
-# First Chapter
+# 新建地图
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+点击“新建地图按纽”.![](/assets/新建地图1.jpg)
+
+允许共享浏览器位置
+
+![](/assets/允许共享.jpg)
+
+设置地图名称
+
+![](/assets/修改地图名称.jpg)
+

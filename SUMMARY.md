@@ -1,5 +1,6 @@
 # Summary
 
-* [首页](README.md)
-* [First Chapter](chapter1.md)
+* [开始使用](README.md)
+* [新建地图](chapter1.md)
+* [绘制地图](hui-zhi-di-tu.md)
 

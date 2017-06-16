@@ -1,3 +1,8 @@
-# My Awesome Book
+# 开始使用
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+首先输入网址http://www.imap123.com进入首页，推荐使用谷歌或火狐浏览器。
+
+![](/assets/登录.jpg)
+
+输入用户名和口令
+

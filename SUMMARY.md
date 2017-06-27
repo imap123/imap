@@ -8,4 +8,6 @@
 * [地图协作](di-tu-xie-zuo.md)
 * [地图发布](di-tu-fa-bu.md)
 * [用户注册](yong-hu-zhu-ce.md)
+* [用户资料修改](yong-hu-zi-liao-xiu-gai.md)
+* [用户密码修改](yong-hu-mi-ma-xiu-gai.md)
 

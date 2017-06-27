@@ -10,5 +10,5 @@
 * [地图发布](di-tu-fa-bu.md)
 * [用户注册](yong-hu-zhu-ce.md)
 * [用户资料修改](yong-hu-zi-liao-xiu-gai.md)
-* [更改地图视图](geng-gai-di-tu-shi-tu.md)
+* [密码修改](mi-ma-xiu-gai.md)
 

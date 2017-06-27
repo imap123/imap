@@ -7,4 +7,5 @@
 * [地图管理](di-tu-guan-li.md)
 * [地图协作](di-tu-xie-zuo.md)
 * [地图发布](di-tu-fa-bu.md)
+* [用户注册](yong-hu-zhu-ce.md)
 

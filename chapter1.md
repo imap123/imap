@@ -8,7 +8,7 @@
 
 设置地图名称
 
-![](/assets/修改地图名称.jpg)选择城市、地图类型、点击保存
+![](/assets/import.png)
 
-![](/assets/新建地图2.jpg)
+
 
